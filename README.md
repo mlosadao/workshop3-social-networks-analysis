@@ -39,11 +39,15 @@ https://docs.google.com/spreadsheets/d/1Pg7YmJKU30ZSfBYTVc6A_xp1-dOgoYSXY5Qqt1NJ
 ## MLPClassifier results
 ![](./imgs/MLPresults.PNG)
 
+#### Conclusions
+- In first place, we noted a tendency where the more data, it ended up being more efficient. Or at least, this can be said with the higher amount of data on this case which was 395 and the mentioned algorithms.
+
+- Then, about scenario comparison we found that in the scenario number 2, where the neutral elements were deleted, it helped the increase of precision of negative elements in regard to the other two scenarios. However escenario 3 had a much greater positive precision.
 
 #### Instructions
 
 + Clone this repository
-+ If you use MACOS please in the 8th command block erase the '.exe' from the line "DRIVER_PATH = './geckodriver.exe' "
++ Make sure you have the correct libraries installed (especially nltk and sklearn), with their respective version
 + Open a command line console and go inside the repo's directory and run the command "jupyter lab"
 ![](./evidences/comandoJL.png)
 + Run each code block (you need to have the mongoDB service running) to the end. 
