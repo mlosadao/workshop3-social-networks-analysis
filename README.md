@@ -50,5 +50,5 @@ https://docs.google.com/spreadsheets/d/1Pg7YmJKU30ZSfBYTVc6A_xp1-dOgoYSXY5Qqt1NJ
 + Make sure you have the correct libraries installed (especially nltk and sklearn), with their respective version
 + Open a command line console and go inside the repo's directory and run the command "jupyter lab"
 ![](./evidences/comandoJL.png)
-+ Run each code block (you need to have the mongoDB service running) to the end. 
++ Run each code block to the end. 
 + There are the graphics and the results of the program.
