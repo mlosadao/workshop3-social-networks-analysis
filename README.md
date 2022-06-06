@@ -1,7 +1,4 @@
 # social-networks-analysis (Workshop 3)
-
-El método de vectorización de textos BoW nos dió mejores resultados para este caso, y por ello fue utilizado.
-
 ## Members:
 - León Vargas Boris Nicolas
 - Losada Ordoñez Mateo Alejandro
@@ -9,7 +6,7 @@ El método de vectorización de textos BoW nos dió mejores resultados para este
 
 
 ## Youtube Video:
-- https://youtu.be/GVkfft6kidI
+- https://youtu.be/lWmRzWtgVaY
 
 
 ## High-level functionality
@@ -20,7 +17,7 @@ El método de vectorización de textos BoW nos dió mejores resultados para este
 
 ## Results:
 
-- All teh results were gathered in the next file:
+- All the results were gathered in the next file:
 https://docs.google.com/spreadsheets/d/1Pg7YmJKU30ZSfBYTVc6A_xp1-dOgoYSXY5Qqt1NJOWY/edit?usp=sharing
 
 - Taking into account the previous file we selected as viwepoint the MLPClassifier with hidden_layer_sizes=(200, 200, 200). 
